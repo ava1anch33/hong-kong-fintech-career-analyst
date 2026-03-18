@@ -41,3 +41,13 @@ git add *
 git commit -m "your commit message, like: add question description"
 git push
 ```
+
+### 3. update your local repo when other has upload new updated
+
+simply run command git pull and you will see the updates
+
+```bash
+# open your cmd/bash and locate the repo position
+cd /your/location/hong-kong-fintech-career-analyst
+git pull
+```
